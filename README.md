@@ -9,7 +9,7 @@ Analisis_Exportaciones.ipynb: Exploración y análisis detallado de las exportac
 Analisis_Importaciones.ipynb: Exploración y análisis detallado de las importaciones.
 
 # Datos
-Carpeta Datos/: Contiene los conjuntos de datos brutos del INE.
+Carpeta Datos/: Contiene los conjuntos de datos brutos de las exportaciones e importaciones del INE
 
 # Resultados
 Carpeta Resultados/: Almacena los resultados generados, como tablas y gráficos.
