@@ -1,5 +1,5 @@
 # Cifras-De-Comercio-Internacional-para-Bolivia
-Este repositorio contiene un análisis del comercio internacional de Bolivia para el año 2022, basado en datos proporcionados por el Instituto Nacional de Estadística (INE). Se generan tablas y gráficos que permiten entender y visualizar patrones y tendencias en las exportaciones e importaciones del país.
+Este repositorio contiene un análisis del comercio internacional de Bolivia para el año 2022, basado en datos proporcionados por el Instituto Nacional de Estadística (INE). Se generan tablas y gráficos que permiten entender y visualizar patrones y tendencias en las exportaciones e importaciones del país. En un futuro, planeo automatizar la generación de filtros y gráficos para diversos años.
 
 # Contenido
 Notebooks de Jupyter:
